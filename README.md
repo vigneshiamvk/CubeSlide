@@ -4,7 +4,7 @@ A simple game written with C# and Unity. I'm still trying to find my way around 
 
 # How to play?
 
-Download the CubeSlide.app file from the Executables folder. Run the application and enjoy! :)
+Download the CubeSlide.zip file from the Executables folder. Extract the file. Run the application and enjoy! :)
 
 # Going through the source files
 
