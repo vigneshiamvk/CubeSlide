@@ -1,6 +1,6 @@
 # CubeSlide
 
-A simple game written with C# and Unity. I'm still trying to find my way around with Unity and so this game is extremely simple ( I'm predominantly an [artist](www.vigneshkrishnan.com) ) If you were expecting something grand, sorry! :satisfied:
+A simple game written with C# and Unity. I'm still trying to find my way around with Unity and so this game is extremely simple ( I'm predominantly an [artist](www.vigneshkrishnan.com) ). If you were expecting something grand, sorry! :satisfied:
 
 # How to play?
 
