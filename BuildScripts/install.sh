@@ -1,11 +1,12 @@
 #! /bin/sh
 
-BASE_URL=https://drive.google.com/uc?export=download&confirm=cvkk&id=1EubS9CXJLUK8FVSfMNOK6xWfraSbRQgv
+BASE_URL=https://download.unity3d.com/download_unity
+HASH=497a0f351392
 VERSION=5.6.0f3
 
 download() {
   file=$1
-  url="$BASE_URL/$package"
+  url="$BASE_URL/$HASH/$package"
 
   echo "Downloading from $url: "
   curl -o `basename "$package"` "$url"
