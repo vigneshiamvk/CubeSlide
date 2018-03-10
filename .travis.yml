@@ -6,6 +6,6 @@ before_install:
 - chmod a+x ./BuildScripts/install.sh
 - chmod a+x ./BuildScripts/build.sh
 install:
-- ./BuildScripts/install.sh
+- travis_wait 60 ./BuildScripts/install.sh
 script:
 - ./BuildScripts/build.sh
